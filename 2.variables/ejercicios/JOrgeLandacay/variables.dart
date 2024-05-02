@@ -9,7 +9,7 @@ void main() {
 
   print(cantCariito);
   
-  cantCariito=20;j
+
 
 
 }

@@ -4,7 +4,7 @@ String miprimerString='jorge';
 
 // cararateres especuiales
 
-String valor='valor es \$ 5.24'
+String valor='valor es \$ 5.24';
 
 print(valor);
 
